@@ -1,5 +1,6 @@
 V 0.1 Basic Page
 V 0.2 Page with purple header and NavBar
+V 0.3 An Art page with links to others in the series, if applicable.
 
 
 Plans for future versions:
